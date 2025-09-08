@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+be/.env
+be/__pycache__/
+be/cv-filter-1e64b-firebase-adminsdk-fbsvc-c2e55541d5.json
+test/
